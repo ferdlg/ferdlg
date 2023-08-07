@@ -11,8 +11,8 @@
 
 ## Tecnologías
 
-- ![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3APython-logo-notext.svg&psig=AOvVaw08rt1UBWn23CKfyR-esdmp&ust=1691521165709000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjN-8Kdy4ADFQAAAAAdAAAAABAE){width=30px}
-- ![Java](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepng.es%2Fpng-dzig9f%2F&psig=AOvVaw37H2okh4XYSwN3ibSn8EK2&ust=1691521198088000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJigu9Kdy4ADFQAAAAAdAAAAABAE){width=30px}
+- ![Python]<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3APython-logo-notext.svg&psig=AOvVaw08rt1UBWn23CKfyR-esdmp&ust=1691521165709000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjN-8Kdy4ADFQAAAAAdAAAAABAE" alt="Logo de Python" width="30px">
+- ![Java] 
 - ![CSS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fso%2Fcss-logo%2F&psig=AOvVaw2nFWn5AQ2duvdJk4ugsgJm&ust=1691521234473000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODi5-Ody4ADFQAAAAAdAAAAABAE){width=30px}
 - ![HTML](ehttps://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ficon%2Fhtml-5_5968267&psig=AOvVaw0q2M0JHfvaBfCbdA5SI5tI&ust=1691520875041000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiDw7icy4ADFQAAAAAdAAAAABAIl){width=30px}
 - ![JavaScript](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AJavaScript-logo.png&psig=AOvVaw2kKyTgv66fMRHGZY4M7-zR&ust=1691521262703000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC8tfGdy4ADFQAAAAAdAAAAABAE){width=30px}
