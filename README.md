@@ -1,25 +1,26 @@
-# Hello! I'm Mafe 👋
+# ¡Hola! Soy Mafe 👋
 
-## About Me
-👩🏼‍💻 I'm a Software Development student on a journey to achieve my goal of becoming a software engineer. My passion for technology drives me to constantly explore and learn.
+## Sobre mí
+👩🏼‍💻 Soy estudiante de Desarrollo de Software en búsqueda de mi meta de convertirme en una ingeniera de software. Mi pasión por la tecnología me impulsa a explorar y aprender constantemente.
 
-## Diverse Interests
-🌱 Beyond code, I enjoy spending time outdoors and connecting with nature. I'm also fascinated by learning about science, history, and art to broaden my horizons.
+## Intereses Variados
+🌱 Además del código, disfruto pasar tiempo al aire libre y conectar con la naturaleza. También me fascina aprender sobre ciencia, historia y arte para ampliar mis horizontes.
 
-## My Goals
-🎯 My focus is on contributing to the world of development by creating efficient and innovative solutions. I'm always ready to take on new challenges and continue learning with every step.
+## Mis Objetivos
+🎯 Mi enfoque está en contribuir al mundo del desarrollo creando soluciones eficientes e innovadoras. Siempre estoy dispuesta a asumir nuevos retos y a seguir aprendiendo en cada paso.
 
-## Technologies
+## Tecnologías
 
-- Python 🐍
+- python 🐍
 - Java ☕
-- PHP 🐘
-- HTML
-- CSS
+- php 🐘
+- html
+- css
 - JavaScript
-- MySQL
+- MySql
+  
 
-## Connect with Me
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mafe-pardo-369922219)
+## Conéctate conmigo
+📫 ¡Conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/mafe-pardo-369922219)
 
-Thank you for visiting my repository! 🌟
+¡Gracias por visitar mi repositorio! 🌟.
