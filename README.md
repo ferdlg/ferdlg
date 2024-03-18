@@ -14,8 +14,6 @@
 - python 🐍
 - Java ☕
 - php 🐘
-- html
-- css
 - JavaScript
 - MySql
   
