@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi I'm Mafe Pardo <br><br>Backend and frontend developer <br><br>I´m colombian <br><br><br>
+# 💫 Backend and frontend developer
+Hi I'm Mafe Pardo <br><br> <br><br>I´m colombian <br><br><br>
 
 
 # 💻 Tech Stack:
