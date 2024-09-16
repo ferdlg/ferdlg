@@ -28,9 +28,9 @@
 <p align="center">IA and Machine Learning </p>
 </div>
 
-<div align="center">
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mafe-pardo-369922219) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mf0718) 
+<div align="center">
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ferdlg&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
