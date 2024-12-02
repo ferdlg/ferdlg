@@ -2,7 +2,6 @@
 <h1 align="center"  >Hi🫡!, I'm Mafe Pardo </h1>
 <h4 align="center">Developer Jr <img src="https://i.pinimg.com/originals/ca/5f/72/ca5f7279fac547e0804c8341af9e2e6c.gif" width="2%"> </h4>
 <h3>About me</h3> 
-<img align="right"   src="https://i.pinimg.com/736x/30/a0/37/30a03741515fe8103384dc219cf51cef.jpg" width="200" height="200" alt="Image developer girl">
 <br></br>
 <p> A passioante developer, i love learning and growing both in frontend and backend development. </p>
 <p>I'm driven by my curiosity and desire to solve real-world problems through code. My current goal is to master fullstack development and contribute to meaningful projects.</p>
