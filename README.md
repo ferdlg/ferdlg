@@ -1,6 +1,6 @@
 <img align="right" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" width="10%" style="display:inline;">
 <h1 align="center"  >Hi🫡!, I'm Mafe Pardo </h1>
-<h4 align="center">Developer Jr <img src="https://i.pinimg.com/originals/ca/5f/72/ca5f7279fac547e0804c8341af9e2e6c.gif" width="2%"> </h4>
+<h4 align="center">Software Developer </h4>
 <h3>About me</h3> 
 <br></br>
 <p> A passioante developer, i love learning and growing both in frontend and backend development. </p>
